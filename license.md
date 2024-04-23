@@ -1,7 +1,5 @@
 # 🌕English
 
-Copyright 2020 The Kaisei Project Authors (https://github.com/Font-Kai/Kaisei), 2023 Moonlit Owen (https://github.com/MoonlitOwen/)
-
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
 https://scripts.sil.org/OFL
@@ -97,8 +95,6 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
 # 🌕中文翻譯
 
 ★注意：本中文翻譯並非由官方提供，僅供參考，一切以英文版本爲準。★
-
-版權由解星計劃作者 (https://github.com/Font-Kai/Kaisei) 自 2020 年起、由宇文滿月 (https://github.com/MoonlitOwen/) 自 2023 年起持有。
 
 本「字型軟件」以《SIL開源字型授權》1.1版授權釋出。
 本授權條款全文副本如下，亦隨《常見問題目錄》（FAQ）於以下網址提供：
