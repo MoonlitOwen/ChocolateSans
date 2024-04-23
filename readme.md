@@ -26,7 +26,7 @@
 滿月自己是VTuber，平日活躍於YouTube和社交媒體，歡迎瀏覽滿月的連結集：[http://lit.link/moonlitowen](http://lit.link/moonlitowen)，訂閱和追蹤滿月💛💜
 
 ## 🌕鳴謝
-*[傳承字形標準化文件](https://github.com/ichitenfont/inheritedglyphs)
-*[一點字坊（I.字坊 I.Font Project）](https://github.com/ichitenfont)
-*[中文字型簡繁處理工具（TC Font Creator）](https://github.com/GuiWonder/TCFontCreator)
-*[思源黑體（Source Han Sans/Noto Sans CJK）的日文和韓文版](https://github.com/adobe-fonts/source-han-sans/)
+* [傳承字形標準化文件](https://github.com/ichitenfont/inheritedglyphs)
+* [一點字坊（I.字坊 I.Font Project）](https://github.com/ichitenfont)
+* [中文字型簡繁處理工具（TC Font Creator）](https://github.com/GuiWonder/TCFontCreator)
+* [思源黑體（Source Han Sans/Noto Sans CJK）的日文和韓文版](https://github.com/adobe-fonts/source-han-sans/)
