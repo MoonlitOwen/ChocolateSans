@@ -2,7 +2,7 @@
 
 ## 🌕提要
 
-「朱古力黑體（Chocolate Classical Sans）」爲適用於繁體中文環境的開源字型，它以[Adobe與Google合作開發的「思源黑體」字型](https://github.com/adobe-fonts/source-han-sans/)爲基礎，局部參考傳承字形，包括[傳承字形標準化文件](https://github.com/ichitenfont/inheritedglyphs)的推薦形體，與其他常見的傳承字形，修改爲中文傳統字形，補製了一些欠缺的漢字。
+「朱古力黑體（Chocolate Classical Sans）」爲適用於繁體中文環境的開源字型，它以[Adobe與Google合作開發的「思源黑體」字型](https://github.com/adobe-fonts/source-han-sans/)爲基礎，局部參考傳承字形，包括[傳承字形標準化文件](https://github.com/ichitenfont/inheritedglyphs)的推薦形體，與其他常見的傳承字形，把字形修改爲中文傳統的形體，並補製一些欠缺的漢字。
 
 ![示範文字](img/img01.png)
 
@@ -18,7 +18,7 @@
 
 ## 🌕製作說明
 
-本字型主力由田海東製作，宇文滿月參與修改，以應付屏顯和排印之需。
+本字型由田海東主力製作，宇文滿月參與修改，以應付屏顯和排印之需。
 
 礙於人力、時間等限制，本字型尚有不少地方有待高賢不吝賜正，敬祈見諒。
 
