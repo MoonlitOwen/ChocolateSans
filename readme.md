@@ -12,6 +12,9 @@
 
 🌕 [朱古力黑體 Chocolate Classical Sans 下載](fonts/ChocolateClassicalSans.otf) 🌕
 
+下載方法：點進連結後，按「View raw」欄右上方的「Download raw file」（如下圖紅圈所示）。
+![下載鍵的位置](img/dl.png)
+
 另有特殊版本「簡繁轉換版」，收錄字數較少，方便把簡體文件顯示成繁體中文。但它包含的字符都比較少，請確定有必要才使用它。此版本以[GuiWonder開發的「中文字型簡繁處理工具」](https://github.com/GuiWonder/TCFontCreator)製作。
 
 🌕 [朱古力黑體（簡轉轉換） Chocolate Sans Sim-to-Trad 下載](fonts/ChocolateSansSimtoTrad.otf) 🌕
