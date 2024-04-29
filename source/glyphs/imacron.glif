@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="imacron" format="2">
+  <advance width="275" height="1000"/>
+  <unicode hex="012B"/>
+  <outline>
+    <contour>
+      <point x="92" y="0" type="line"/>
+      <point x="184" y="0" type="line"/>
+      <point x="184" y="543" type="line"/>
+      <point x="92" y="543" type="line"/>
+    </contour>
+    <contour>
+      <point x="-10" y="671" type="line"/>
+      <point x="286" y="671" type="line"/>
+      <point x="286" y="736" type="line"/>
+      <point x="-10" y="736" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

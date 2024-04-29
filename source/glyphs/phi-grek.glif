@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="phi-grek" format="2">
+  <advance width="760" height="1000"/>
+  <unicode hex="03C6"/>
+  <outline>
+    <contour>
+      <point x="337" y="61" type="line"/>
+      <point x="231" y="64"/>
+      <point x="146" y="143"/>
+      <point x="146" y="272" type="curve"/>
+      <point x="146" y="401"/>
+      <point x="231" y="479"/>
+      <point x="337" y="483" type="curve"/>
+    </contour>
+    <contour>
+      <point x="337" y="-200" type="line"/>
+      <point x="422" y="-200" type="line"/>
+      <point x="422" y="-10" type="line"/>
+      <point x="570" y="-4"/>
+      <point x="708" y="95"/>
+      <point x="708" y="272" type="curve"/>
+      <point x="708" y="449"/>
+      <point x="574" y="548"/>
+      <point x="422" y="554" type="curve"/>
+      <point x="422" y="696" type="line"/>
+      <point x="337" y="696" type="line"/>
+      <point x="337" y="554" type="line"/>
+      <point x="190" y="548"/>
+      <point x="52" y="449"/>
+      <point x="52" y="272" type="curve"/>
+      <point x="52" y="95"/>
+      <point x="190" y="-4"/>
+      <point x="337" y="-10" type="curve"/>
+    </contour>
+    <contour>
+      <point x="422" y="483" type="line"/>
+      <point x="533" y="479"/>
+      <point x="614" y="402"/>
+      <point x="614" y="272" type="curve"/>
+      <point x="614" y="142"/>
+      <point x="527" y="64"/>
+      <point x="422" y="61" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

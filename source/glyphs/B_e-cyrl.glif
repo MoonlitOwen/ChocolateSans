@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Be-cyrl" format="2">
+  <advance width="648" height="1000"/>
+  <unicode hex="0411"/>
+  <outline>
+    <contour>
+      <point x="101" y="0" type="line"/>
+      <point x="338" y="0" type="line"/>
+      <point x="499" y="0"/>
+      <point x="601" y="70"/>
+      <point x="601" y="222" type="curve"/>
+      <point x="601" y="369"/>
+      <point x="490" y="425"/>
+      <point x="334" y="425" type="curve"/>
+      <point x="193" y="425" type="line"/>
+      <point x="193" y="655" type="line"/>
+      <point x="553" y="655" type="line"/>
+      <point x="553" y="733" type="line"/>
+      <point x="101" y="733" type="line"/>
+    </contour>
+    <contour>
+      <point x="193" y="74" type="line"/>
+      <point x="193" y="353" type="line"/>
+      <point x="320" y="353" type="line"/>
+      <point x="446" y="353"/>
+      <point x="511" y="315"/>
+      <point x="511" y="219" type="curve"/>
+      <point x="511" y="119"/>
+      <point x="448" y="74"/>
+      <point x="323" y="74" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

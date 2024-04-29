@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yi-hang" format="2">
+  <advance width="920" height="1000"/>
+  <unicode hex="3162"/>
+  <unicode hex="FFDB"/>
+  <outline>
+    <contour>
+      <point x="719" y="801" type="line"/>
+      <point x="719" y="-87" type="line"/>
+      <point x="801" y="-87" type="line"/>
+      <point x="801" y="801" type="line"/>
+    </contour>
+    <contour>
+      <point x="88" y="209" type="line"/>
+      <point x="257" y="209"/>
+      <point x="472" y="213"/>
+      <point x="668" y="243" type="curve"/>
+      <point x="663" y="305" type="line"/>
+      <point x="473" y="280"/>
+      <point x="251" y="278"/>
+      <point x="76" y="278" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

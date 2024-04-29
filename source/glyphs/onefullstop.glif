@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onefullstop" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2488"/>
+  <outline>
+    <contour>
+      <point x="179" y="0" type="line"/>
+      <point x="566" y="0" type="line"/>
+      <point x="566" y="76" type="line"/>
+      <point x="425" y="76" type="line"/>
+      <point x="425" y="714" type="line"/>
+      <point x="356" y="714" type="line"/>
+      <point x="318" y="690"/>
+      <point x="273" y="672"/>
+      <point x="210" y="662" type="curve"/>
+      <point x="210" y="603" type="line"/>
+      <point x="334" y="603" type="line"/>
+      <point x="334" y="76" type="line"/>
+      <point x="179" y="76" type="line"/>
+    </contour>
+    <contour>
+      <point x="774" y="-13" type="curve"/>
+      <point x="812" y="-13"/>
+      <point x="842" y="16"/>
+      <point x="842" y="57" type="curve"/>
+      <point x="842" y="100"/>
+      <point x="812" y="129"/>
+      <point x="774" y="129" type="curve"/>
+      <point x="737" y="129"/>
+      <point x="708" y="100"/>
+      <point x="708" y="57" type="curve"/>
+      <point x="708" y="16"/>
+      <point x="737" y="-13"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>850</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idieresis" format="2">
+  <advance width="275" height="1000"/>
+  <unicode hex="00EF"/>
+  <outline>
+    <contour>
+      <point x="92" y="0" type="line"/>
+      <point x="184" y="0" type="line"/>
+      <point x="184" y="543" type="line"/>
+      <point x="92" y="543" type="line"/>
+    </contour>
+    <contour>
+      <point x="31" y="657" type="curve"/>
+      <point x="63" y="657"/>
+      <point x="86" y="681"/>
+      <point x="86" y="712" type="curve"/>
+      <point x="86" y="743"/>
+      <point x="63" y="767"/>
+      <point x="31" y="767" type="curve"/>
+      <point x="-1" y="767"/>
+      <point x="-25" y="743"/>
+      <point x="-25" y="712" type="curve"/>
+      <point x="-25" y="681"/>
+      <point x="-1" y="657"/>
+    </contour>
+    <contour>
+      <point x="246" y="657" type="curve"/>
+      <point x="278" y="657"/>
+      <point x="301" y="681"/>
+      <point x="301" y="712" type="curve"/>
+      <point x="301" y="743"/>
+      <point x="278" y="767"/>
+      <point x="246" y="767" type="curve"/>
+      <point x="214" y="767"/>
+      <point x="190" y="743"/>
+      <point x="190" y="712" type="curve"/>
+      <point x="190" y="681"/>
+      <point x="214" y="657"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>
