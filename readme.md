@@ -21,7 +21,7 @@
 
 ## 🌕製作說明
 
-本字型由田海東主力製作，宇文滿月參與修改，以應付屏顯和排印之需。
+本字型由[田海東](https://github.com/jisbig5)主力製作，宇文滿月參與修改，以應付屏顯和排印之需。本字型在[Steve Yuu](https://github.com/Steve-Yuu)、[GuiWonder](https://github.com/GuiWonder)及[秋明](https://github.com/ChiuMing-Neko)的貢獻上製作而成。
 
 礙於人力、時間等限制，本字型尚有不少地方有待高賢不吝賜正，敬祈見諒。
 
@@ -37,3 +37,5 @@
 * [源樣黑體（GenYoGothic）](https://github.com/ButTaiwan/genyog-font)
 * [思源黑體（Source Han Sans/Noto Sans CJK）的日文和韓文版](https://github.com/adobe-fonts/source-han-sans/)
 * [中文字型簡繁處理工具（TC Font Creator）](https://github.com/GuiWonder/TCFontCreator)
+* [秋空󠄁黑體（ChiuKong Gothic）](https://github.com/ChiuMing-Neko/ChiuKongGothic)
+* [Yuu黑體（Yuu-Gothic）舊字形版](https://github.com/Steve-Yuu/Yuu-Gothic)
