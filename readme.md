@@ -41,3 +41,4 @@
 * [中文字型簡繁處理工具（TC Font Creator）](https://github.com/GuiWonder/TCFontCreator)
 * [秋空󠄁黑體（ChiuKong Gothic）](https://github.com/ChiuMing-Neko/ChiuKongGothic)
 * [Yuu黑體（Yuu-Gothic）舊字形版](https://github.com/Steve-Yuu/Yuu-Gothic)
+* [尚古黑體（Shanggu Sans）](https://github.com/GuiWonder/Shanggu)
