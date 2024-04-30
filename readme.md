@@ -21,7 +21,9 @@
 
 ## 🌕製作說明
 
-本字型由[田海東](https://github.com/jisbig5)主力製作，宇文滿月參與修改，以應付屏顯和排印之需。本字型在[Steve Yuu](https://github.com/Steve-Yuu)、[GuiWonder](https://github.com/GuiWonder)及[秋明](https://github.com/ChiuMing-Neko)的貢獻上製作而成。
+本字型由[田海東](https://github.com/jisbig5)主力製作，宇文滿月參與修改，以應付屏顯和排印之需。
+
+本字型借用了[Steve Yuu](https://github.com/Steve-Yuu)、[GuiWonder](https://github.com/GuiWonder)及[秋明](https://github.com/ChiuMing-Neko)的開源貢獻而製作。
 
 礙於人力、時間等限制，本字型尚有不少地方有待高賢不吝賜正，敬祈見諒。
 
