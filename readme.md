@@ -8,7 +8,7 @@
 
 ## 🌕下載
 
-目前最新版本爲1.000版，發佈於2024年4月23日。
+目前最新版本爲1.001版，發佈於2024年5月3日。
 
 🌕 [朱古力黑體 Chocolate Classical Sans 下載](fonts/ChocolateClassicalSans.otf) 🌕
 
