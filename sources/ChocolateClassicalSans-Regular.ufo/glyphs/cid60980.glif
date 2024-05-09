@@ -69,6 +69,12 @@
       <point x="408" y="-80" type="line"/>
     </contour>
     <contour>
+      <point x="160" y="-81" type="line"/>
+      <point x="232" y="-81" type="line"/>
+      <point x="232" y="416" type="line"/>
+      <point x="271" y="468"/>
+      <point x="307" y="524"/>
+      <point x="335" y="579" type="curve"/>
       <point x="266" y="604" type="line"/>
       <point x="212" y="493"/>
       <point x="120" y="386"/>
@@ -79,17 +85,8 @@
       <point x="100" y="270"/>
       <point x="130" y="299"/>
       <point x="160" y="331" type="curve"/>
-      <point x="160" y="-81" type="line"/>
-      <point x="232" y="-81" type="line"/>
-      <point x="232" y="416" type="line"/>
-      <point x="271" y="468"/>
-      <point x="307" y="524"/>
-      <point x="335" y="579" type="curve"/>
     </contour>
     <contour>
-      <point x="57" y="750" type="line"/>
-      <point x="57" y="683" type="line"/>
-      <point x="283" y="683" type="line"/>
       <point x="283" y="613" type="line"/>
       <point x="357" y="613" type="line"/>
       <point x="357" y="683" type="line"/>
@@ -99,11 +96,11 @@
       <point x="357" y="840" type="line"/>
       <point x="283" y="840" type="line"/>
       <point x="283" y="750" type="line"/>
+      <point x="57" y="750" type="line"/>
+      <point x="57" y="683" type="line"/>
+      <point x="283" y="683" type="line"/>
     </contour>
     <contour>
-      <point x="530" y="750" type="line"/>
-      <point x="530" y="683" type="line"/>
-      <point x="643" y="683" type="line"/>
       <point x="643" y="610" type="line"/>
       <point x="717" y="610" type="line"/>
       <point x="717" y="683" type="line"/>
@@ -113,10 +110,15 @@
       <point x="717" y="840" type="line"/>
       <point x="643" y="840" type="line"/>
       <point x="643" y="750" type="line"/>
+      <point x="530" y="750" type="line"/>
+      <point x="530" y="683" type="line"/>
+      <point x="643" y="683" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:57:39 +0000</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

@@ -4,19 +4,6 @@
   <unicode hex="7F42"/>
   <outline>
     <contour>
-      <point x="910" y="366" type="curve"/>
-      <point x="942" y="412" type="line"/>
-      <point x="893" y="454"/>
-      <point x="827" y="495"/>
-      <point x="743" y="535" type="curve"/>
-      <point x="711" y="494" type="line"/>
-      <point x="794" y="453"/>
-      <point x="861" y="410"/>
-    </contour>
-    <contour>
-      <point x="233" y="21" type="line"/>
-      <point x="233" y="103" type="line"/>
-      <point x="163" y="103" type="line"/>
       <point x="163" y="-72" type="line"/>
       <point x="233" y="-72" type="line"/>
       <point x="233" y="-35" type="line"/>
@@ -54,8 +41,18 @@
       <point x="43" y="143" type="line"/>
       <point x="465" y="143" type="line"/>
       <point x="465" y="21" type="line"/>
+      <point x="233" y="21" type="line"/>
+      <point x="233" y="103" type="line"/>
+      <point x="163" y="103" type="line"/>
     </contour>
     <contour>
+      <point x="78" y="370" type="curve"/>
+      <point x="177" y="395"/>
+      <point x="242" y="438"/>
+      <point x="275" y="499" type="curve"/>
+      <point x="347" y="459"/>
+      <point x="402" y="421"/>
+      <point x="439" y="385" type="curve"/>
       <point x="473" y="430" type="line"/>
       <point x="433" y="467"/>
       <point x="378" y="503"/>
@@ -73,35 +70,24 @@
       <point x="44" y="417" type="curve"/>
       <point x="59" y="403"/>
       <point x="71" y="387"/>
-      <point x="78" y="370" type="curve"/>
-      <point x="177" y="395"/>
-      <point x="242" y="438"/>
-      <point x="275" y="499" type="curve"/>
-      <point x="347" y="459"/>
-      <point x="402" y="421"/>
-      <point x="439" y="385" type="curve"/>
     </contour>
     <contour>
+      <point x="107" y="509" type="line"/>
+      <point x="165" y="509" type="line"/>
       <point x="165" y="744" type="line"/>
       <point x="402" y="744" type="line"/>
       <point x="402" y="509" type="line"/>
       <point x="462" y="509" type="line"/>
       <point x="462" y="800" type="line"/>
       <point x="107" y="800" type="line"/>
-      <point x="107" y="509" type="line"/>
-      <point x="165" y="509" type="line"/>
     </contour>
     <contour>
-      <point x="601" y="744" type="line"/>
-      <point x="837" y="744" type="line"/>
-      <point x="837" y="508" type="line"/>
-      <point x="897" y="508" type="line"/>
-      <point x="897" y="799" type="line"/>
-      <point x="544" y="799" type="line"/>
-      <point x="544" y="508" type="line"/>
-      <point x="601" y="508" type="line"/>
-    </contour>
-    <contour>
+      <point x="530" y="375" type="curve"/>
+      <point x="619" y="399"/>
+      <point x="680" y="439"/>
+      <point x="711" y="494" type="curve"/>
+      <point x="735" y="537"/>
+      <point x="749" y="606"/>
       <point x="753" y="701" type="curve"/>
       <point x="693" y="701" type="line"/>
       <point x="690" y="612"/>
@@ -112,16 +98,32 @@
       <point x="498" y="421" type="curve"/>
       <point x="512" y="410"/>
       <point x="523" y="394"/>
-      <point x="530" y="375" type="curve"/>
-      <point x="619" y="399"/>
-      <point x="680" y="439"/>
-      <point x="711" y="494" type="curve"/>
-      <point x="735" y="537"/>
-      <point x="749" y="606"/>
+    </contour>
+    <contour>
+      <point x="910" y="366" type="curve"/>
+      <point x="942" y="412" type="line"/>
+      <point x="893" y="454"/>
+      <point x="827" y="495"/>
+      <point x="743" y="535" type="curve"/>
+      <point x="711" y="494" type="line"/>
+      <point x="794" y="453"/>
+      <point x="861" y="410"/>
+    </contour>
+    <contour>
+      <point x="544" y="508" type="line"/>
+      <point x="601" y="508" type="line"/>
+      <point x="601" y="744" type="line"/>
+      <point x="837" y="744" type="line"/>
+      <point x="837" y="508" type="line"/>
+      <point x="897" y="508" type="line"/>
+      <point x="897" y="799" type="line"/>
+      <point x="544" y="799" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:57:46 +0000</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

@@ -4,20 +4,7 @@
   <unicode hex="545F"/>
   <outline>
     <contour>
-      <point x="289" y="664" type="line"/>
-      <point x="289" y="275" type="line"/>
-      <point x="145" y="275" type="line"/>
-      <point x="145" y="664" type="line"/>
-    </contour>
-    <contour>
-      <point x="360" y="206" type="line"/>
-      <point x="360" y="733" type="line"/>
-      <point x="77" y="733" type="line"/>
-      <point x="77" y="109" type="line"/>
-      <point x="145" y="109" type="line"/>
-      <point x="145" y="206" type="line"/>
-    </contour>
-    <contour>
+      <point x="899" y="-76" type="curve"/>
       <point x="966" y="-38" type="line"/>
       <point x="933" y="45"/>
       <point x="873" y="140"/>
@@ -67,11 +54,26 @@
       <point x="869" y="-11" type="line"/>
       <point x="884" y="-42"/>
       <point x="894" y="-63"/>
-      <point x="899" y="-76" type="curve"/>
+    </contour>
+    <contour>
+      <point x="77" y="109" type="line"/>
+      <point x="145" y="109" type="line"/>
+      <point x="145" y="206" type="line"/>
+      <point x="360" y="206" type="line"/>
+      <point x="360" y="733" type="line"/>
+      <point x="77" y="733" type="line"/>
+    </contour>
+    <contour>
+      <point x="145" y="275" type="line"/>
+      <point x="145" y="664" type="line"/>
+      <point x="289" y="664" type="line"/>
+      <point x="289" y="275" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:57:42 +0000</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

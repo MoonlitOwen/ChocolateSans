@@ -5,23 +5,6 @@
   <unicode hex="FFAC"/>
   <outline>
     <contour>
-      <point x="485" y="617" type="line"/>
-      <point x="485" y="135" type="line"/>
-      <point x="793" y="135" type="line"/>
-      <point x="793" y="617" type="line"/>
-      <point x="715" y="617" type="line"/>
-      <point x="715" y="451" type="line"/>
-      <point x="562" y="451" type="line"/>
-      <point x="562" y="617" type="line"/>
-    </contour>
-    <contour>
-      <point x="562" y="383" type="line"/>
-      <point x="715" y="383" type="line"/>
-      <point x="715" y="204" type="line"/>
-      <point x="562" y="204" type="line"/>
-    </contour>
-    <contour>
-      <point x="148" y="202" type="line"/>
       <point x="148" y="135" type="line"/>
       <point x="198" y="135" type="line"/>
       <point x="288" y="135"/>
@@ -39,10 +22,29 @@
       <point x="359" y="548" type="line"/>
       <point x="359" y="413" type="line"/>
       <point x="148" y="413" type="line"/>
+      <point x="148" y="202" type="line"/>
+    </contour>
+    <contour>
+      <point x="485" y="135" type="line"/>
+      <point x="793" y="135" type="line"/>
+      <point x="793" y="617" type="line"/>
+      <point x="715" y="617" type="line"/>
+      <point x="715" y="451" type="line"/>
+      <point x="562" y="451" type="line"/>
+      <point x="562" y="617" type="line"/>
+      <point x="485" y="617" type="line"/>
+    </contour>
+    <contour>
+      <point x="562" y="204" type="line"/>
+      <point x="562" y="383" type="line"/>
+      <point x="715" y="383" type="line"/>
+      <point x="715" y="204" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:57:38 +0000</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

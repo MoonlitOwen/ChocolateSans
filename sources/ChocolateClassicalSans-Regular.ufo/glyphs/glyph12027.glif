@@ -4,26 +4,7 @@
   <unicode hex="544D"/>
   <outline>
     <contour>
-      <point x="899" y="769" type="line"/>
-      <point x="448" y="769" type="line"/>
-      <point x="448" y="701" type="line"/>
-      <point x="899" y="701" type="line"/>
-    </contour>
-    <contour>
-      <point x="298" y="664" type="line"/>
-      <point x="298" y="274" type="line"/>
-      <point x="147" y="274" type="line"/>
-      <point x="147" y="664" type="line"/>
-    </contour>
-    <contour>
-      <point x="370" y="732" type="line"/>
-      <point x="78" y="732" type="line"/>
-      <point x="78" y="111" type="line"/>
-      <point x="147" y="111" type="line"/>
-      <point x="147" y="205" type="line"/>
-      <point x="370" y="205" type="line"/>
-    </contour>
-    <contour>
+      <point x="896" y="-78" type="curve"/>
       <point x="965" y="-46" type="line"/>
       <point x="937" y="43"/>
       <point x="881" y="147"/>
@@ -53,11 +34,32 @@
       <point x="864" y="5" type="curve"/>
       <point x="877" y="-24"/>
       <point x="887" y="-51"/>
-      <point x="896" y="-78" type="curve"/>
+    </contour>
+    <contour>
+      <point x="78" y="111" type="line"/>
+      <point x="147" y="111" type="line"/>
+      <point x="147" y="205" type="line"/>
+      <point x="370" y="205" type="line"/>
+      <point x="370" y="732" type="line"/>
+      <point x="78" y="732" type="line"/>
+    </contour>
+    <contour>
+      <point x="147" y="274" type="line"/>
+      <point x="147" y="664" type="line"/>
+      <point x="298" y="664" type="line"/>
+      <point x="298" y="274" type="line"/>
+    </contour>
+    <contour>
+      <point x="448" y="701" type="line"/>
+      <point x="899" y="701" type="line"/>
+      <point x="899" y="769" type="line"/>
+      <point x="448" y="769" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:57:42 +0000</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

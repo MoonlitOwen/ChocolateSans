@@ -4,7 +4,6 @@
   <unicode hex="988C"/>
   <outline>
     <contour>
-      <point x="503" y="625" type="line"/>
       <point x="503" y="152" type="line"/>
       <point x="574" y="152" type="line"/>
       <point x="574" y="556" type="line"/>
@@ -24,8 +23,36 @@
       <point x="667" y="687"/>
       <point x="659" y="654"/>
       <point x="650" y="625" type="curve"/>
+      <point x="503" y="625" type="line"/>
     </contour>
     <contour>
+      <point x="107" y="-22" type="line"/>
+      <point x="175" y="-22" type="line"/>
+      <point x="175" y="40" type="line"/>
+      <point x="424" y="40" type="line"/>
+      <point x="424" y="381" type="line"/>
+      <point x="107" y="381" type="line"/>
+    </contour>
+    <contour>
+      <point x="175" y="106" type="line"/>
+      <point x="175" y="317" type="line"/>
+      <point x="355" y="317" type="line"/>
+      <point x="355" y="106" type="line"/>
+    </contour>
+    <contour>
+      <point x="138" y="482" type="line"/>
+      <point x="405" y="482" type="line"/>
+      <point x="405" y="546" type="line"/>
+      <point x="138" y="546" type="line"/>
+    </contour>
+    <contour>
+      <point x="474" y="-81" type="curve"/>
+      <point x="582" y="-38"/>
+      <point x="657" y="20"/>
+      <point x="700" y="94" type="curve"/>
+      <point x="730" y="146"/>
+      <point x="745" y="212"/>
+      <point x="745" y="292" type="curve"/>
       <point x="745" y="493" type="line"/>
       <point x="675" y="493" type="line"/>
       <point x="675" y="293" type="line"/>
@@ -37,25 +64,25 @@
       <point x="428" y="-28" type="curve"/>
       <point x="447" y="-45"/>
       <point x="462" y="-62"/>
-      <point x="474" y="-81" type="curve"/>
-      <point x="582" y="-38"/>
-      <point x="657" y="20"/>
-      <point x="700" y="94" type="curve"/>
-      <point x="730" y="146"/>
-      <point x="745" y="212"/>
-      <point x="745" y="292" type="curve"/>
     </contour>
     <contour>
-      <point x="727" y="92" type="line"/>
-      <point x="808" y="29"/>
-      <point x="868" y="-27"/>
       <point x="908" y="-75" type="curve"/>
       <point x="957" y="-23" type="line"/>
       <point x="918" y="22"/>
       <point x="857" y="75"/>
       <point x="774" y="136" type="curve"/>
+      <point x="727" y="92" type="line"/>
+      <point x="808" y="29"/>
+      <point x="868" y="-27"/>
     </contour>
     <contour>
+      <point x="74" y="494" type="curve"/>
+      <point x="150" y="561"/>
+      <point x="217" y="649"/>
+      <point x="274" y="756" type="curve"/>
+      <point x="327" y="702"/>
+      <point x="378" y="638"/>
+      <point x="427" y="564" type="curve"/>
       <point x="478" y="614" type="line"/>
       <point x="434" y="677"/>
       <point x="373" y="747"/>
@@ -66,37 +93,12 @@
       <point x="29" y="543" type="curve"/>
       <point x="48" y="527"/>
       <point x="63" y="511"/>
-      <point x="74" y="494" type="curve"/>
-      <point x="150" y="561"/>
-      <point x="217" y="649"/>
-      <point x="274" y="756" type="curve"/>
-      <point x="327" y="702"/>
-      <point x="378" y="638"/>
-      <point x="427" y="564" type="curve"/>
-    </contour>
-    <contour>
-      <point x="405" y="482" type="line"/>
-      <point x="405" y="546" type="line"/>
-      <point x="138" y="546" type="line"/>
-      <point x="138" y="482" type="line"/>
-    </contour>
-    <contour>
-      <point x="355" y="317" type="line"/>
-      <point x="355" y="106" type="line"/>
-      <point x="175" y="106" type="line"/>
-      <point x="175" y="317" type="line"/>
-    </contour>
-    <contour>
-      <point x="424" y="40" type="line"/>
-      <point x="424" y="381" type="line"/>
-      <point x="107" y="381" type="line"/>
-      <point x="107" y="-22" type="line"/>
-      <point x="175" y="-22" type="line"/>
-      <point x="175" y="40" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:57:49 +0000</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

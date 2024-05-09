@@ -4,10 +4,6 @@
   <unicode hex="8291"/>
   <outline>
     <contour>
-      <point x="148" y="324" type="line"/>
-      <point x="148" y="59" type="line"/>
-      <point x="148" y="-43"/>
-      <point x="198" y="-66"/>
       <point x="363" y="-66" type="curve"/>
       <point x="400" y="-66"/>
       <point x="713" y="-66"/>
@@ -34,13 +30,12 @@
       <point x="135" y="483" type="line"/>
       <point x="744" y="483" type="line"/>
       <point x="744" y="324" type="line"/>
+      <point x="148" y="324" type="line"/>
+      <point x="148" y="59" type="line"/>
+      <point x="148" y="-43"/>
+      <point x="198" y="-66"/>
     </contour>
     <contour>
-      <point x="265" y="840" type="line"/>
-      <point x="265" y="751" type="line"/>
-      <point x="54" y="751" type="line"/>
-      <point x="54" y="683" type="line"/>
-      <point x="265" y="683" type="line"/>
       <point x="265" y="616" type="line"/>
       <point x="341" y="616" type="line"/>
       <point x="341" y="683" type="line"/>
@@ -48,11 +43,13 @@
       <point x="468" y="751" type="line"/>
       <point x="341" y="751" type="line"/>
       <point x="341" y="840" type="line"/>
+      <point x="265" y="840" type="line"/>
+      <point x="265" y="751" type="line"/>
+      <point x="54" y="751" type="line"/>
+      <point x="54" y="683" type="line"/>
+      <point x="265" y="683" type="line"/>
     </contour>
     <contour>
-      <point x="525" y="752" type="line"/>
-      <point x="525" y="683" type="line"/>
-      <point x="672" y="683" type="line"/>
       <point x="672" y="616" type="line"/>
       <point x="747" y="616" type="line"/>
       <point x="747" y="683" type="line"/>
@@ -62,10 +59,15 @@
       <point x="747" y="840" type="line"/>
       <point x="672" y="840" type="line"/>
       <point x="672" y="752" type="line"/>
+      <point x="525" y="752" type="line"/>
+      <point x="525" y="683" type="line"/>
+      <point x="672" y="683" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:57:47 +0000</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

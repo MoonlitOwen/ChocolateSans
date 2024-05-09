@@ -3,9 +3,6 @@
   <advance width="1000" height="1000"/>
   <outline>
     <contour>
-      <point x="749" y="50" type="curve"/>
-      <point x="749" y="-12"/>
-      <point x="799" y="-62"/>
       <point x="862" y="-62" type="curve"/>
       <point x="925" y="-62"/>
       <point x="974" y="-12"/>
@@ -15,8 +12,14 @@
       <point x="862" y="163" type="curve"/>
       <point x="799" y="163"/>
       <point x="749" y="112"/>
+      <point x="749" y="50" type="curve"/>
+      <point x="749" y="-12"/>
+      <point x="799" y="-62"/>
     </contour>
     <contour>
+      <point x="862" y="-19" type="curve"/>
+      <point x="825" y="-19"/>
+      <point x="792" y="14"/>
       <point x="792" y="50" type="curve"/>
       <point x="792" y="87"/>
       <point x="825" y="118"/>
@@ -26,13 +29,12 @@
       <point x="931" y="50" type="curve"/>
       <point x="931" y="14"/>
       <point x="899" y="-19"/>
-      <point x="862" y="-19" type="curve"/>
-      <point x="825" y="-19"/>
-      <point x="792" y="14"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:57:39 +0000</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

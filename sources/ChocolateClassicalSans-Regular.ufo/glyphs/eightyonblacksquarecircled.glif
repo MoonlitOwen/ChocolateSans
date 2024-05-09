@@ -52,20 +52,6 @@
       <point x="239" y="115"/>
     </contour>
     <contour>
-      <point x="359" y="413" type="curve"/>
-      <point x="306" y="436"/>
-      <point x="261" y="463"/>
-      <point x="261" y="520" type="curve"/>
-      <point x="261" y="570"/>
-      <point x="289" y="598"/>
-      <point x="329" y="598" type="curve"/>
-      <point x="374" y="598"/>
-      <point x="402" y="563"/>
-      <point x="402" y="512" type="curve"/>
-      <point x="402" y="477"/>
-      <point x="386" y="442"/>
-    </contour>
-    <contour>
       <point x="332" y="175" type="curve"/>
       <point x="282" y="175"/>
       <point x="242" y="213"/>
@@ -78,6 +64,20 @@
       <point x="414" y="259" type="curve"/>
       <point x="414" y="207"/>
       <point x="381" y="175"/>
+    </contour>
+    <contour>
+      <point x="359" y="413" type="curve"/>
+      <point x="306" y="436"/>
+      <point x="261" y="463"/>
+      <point x="261" y="520" type="curve"/>
+      <point x="261" y="570"/>
+      <point x="289" y="598"/>
+      <point x="329" y="598" type="curve"/>
+      <point x="374" y="598"/>
+      <point x="402" y="563"/>
+      <point x="402" y="512" type="curve"/>
+      <point x="402" y="477"/>
+      <point x="386" y="442"/>
     </contour>
     <contour>
       <point x="680" y="115" type="curve"/>
@@ -110,6 +110,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:57:38 +0000</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

@@ -4,6 +4,15 @@
   <unicode hex="7432"/>
   <outline>
     <contour>
+      <point x="368" y="-80" type="curve"/>
+      <point x="453" y="-28"/>
+      <point x="512" y="42"/>
+      <point x="545" y="131" type="curve"/>
+      <point x="570" y="198"/>
+      <point x="582" y="288"/>
+      <point x="582" y="401" type="curve"/>
+      <point x="582" y="834" type="line"/>
+      <point x="511" y="834" type="line"/>
       <point x="511" y="686" type="line"/>
       <point x="342" y="686" type="line"/>
       <point x="342" y="618" type="line"/>
@@ -52,17 +61,12 @@
       <point x="315" y="-29" type="curve"/>
       <point x="338" y="-46"/>
       <point x="356" y="-63"/>
-      <point x="368" y="-80" type="curve"/>
-      <point x="453" y="-28"/>
-      <point x="512" y="42"/>
-      <point x="545" y="131" type="curve"/>
-      <point x="570" y="198"/>
-      <point x="582" y="288"/>
-      <point x="582" y="401" type="curve"/>
-      <point x="582" y="834" type="line"/>
-      <point x="511" y="834" type="line"/>
     </contour>
     <contour>
+      <point x="689" y="-75" type="line"/>
+      <point x="762" y="-75" type="line"/>
+      <point x="762" y="159" type="line"/>
+      <point x="957" y="159" type="line"/>
       <point x="957" y="227" type="line"/>
       <point x="762" y="227" type="line"/>
       <point x="762" y="394" type="line"/>
@@ -75,14 +79,12 @@
       <point x="762" y="686" type="line"/>
       <point x="762" y="834" type="line"/>
       <point x="689" y="834" type="line"/>
-      <point x="689" y="-75" type="line"/>
-      <point x="762" y="-75" type="line"/>
-      <point x="762" y="159" type="line"/>
-      <point x="957" y="159" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:57:45 +0000</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

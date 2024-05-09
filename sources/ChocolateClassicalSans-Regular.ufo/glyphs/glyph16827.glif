@@ -4,6 +4,12 @@
   <unicode hex="674A"/>
   <outline>
     <contour>
+      <point x="201" y="-76" type="line"/>
+      <point x="269" y="-76" type="line"/>
+      <point x="269" y="438" type="line"/>
+      <point x="306" y="370"/>
+      <point x="330" y="323"/>
+      <point x="341" y="297" type="curve"/>
       <point x="385" y="350" type="line"/>
       <point x="349" y="413"/>
       <point x="310" y="473"/>
@@ -27,26 +33,20 @@
       <point x="121" y="192"/>
       <point x="163" y="287"/>
       <point x="201" y="411" type="curve"/>
-      <point x="201" y="-76" type="line"/>
-      <point x="269" y="-76" type="line"/>
-      <point x="269" y="438" type="line"/>
-      <point x="306" y="370"/>
-      <point x="330" y="323"/>
-      <point x="341" y="297" type="curve"/>
     </contour>
     <contour>
-      <point x="455" y="469" type="line"/>
-      <point x="455" y="246"/>
-      <point x="414" y="83"/>
-      <point x="332" y="-21" type="curve"/>
-      <point x="359" y="-33"/>
-      <point x="379" y="-46"/>
       <point x="393" y="-60" type="curve"/>
       <point x="480" y="53"/>
       <point x="523" y="230"/>
       <point x="523" y="469" type="curve"/>
       <point x="523" y="808" type="line"/>
       <point x="455" y="808" type="line"/>
+      <point x="455" y="469" type="line"/>
+      <point x="455" y="246"/>
+      <point x="414" y="83"/>
+      <point x="332" y="-21" type="curve"/>
+      <point x="359" y="-33"/>
+      <point x="379" y="-46"/>
     </contour>
     <contour>
       <point x="646" y="52" type="line"/>
@@ -55,14 +55,16 @@
       <point x="646" y="760" type="line"/>
     </contour>
     <contour>
-      <point x="854" y="812" type="line"/>
       <point x="854" y="-63" type="line"/>
       <point x="923" y="-63" type="line"/>
       <point x="923" y="812" type="line"/>
+      <point x="854" y="812" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:57:44 +0000</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

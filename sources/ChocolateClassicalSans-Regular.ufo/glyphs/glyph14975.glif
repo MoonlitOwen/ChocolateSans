@@ -4,6 +4,13 @@
   <unicode hex="5FF7"/>
   <outline>
     <contour>
+      <point x="364" y="-75" type="line"/>
+      <point x="434" y="-75" type="line"/>
+      <point x="434" y="1" type="line"/>
+      <point x="848" y="1" type="line"/>
+      <point x="848" y="-70" type="line"/>
+      <point x="917" y="-70" type="line"/>
+      <point x="917" y="754" type="line"/>
       <point x="848" y="754" type="line"/>
       <point x="848" y="70" type="line"/>
       <point x="434" y="70" type="line"/>
@@ -40,13 +47,12 @@
       <point x="434" y="155" type="curve"/>
       <point x="434" y="754" type="line"/>
       <point x="364" y="754" type="line"/>
-      <point x="364" y="-75" type="line"/>
-      <point x="434" y="-75" type="line"/>
-      <point x="434" y="1" type="line"/>
-      <point x="848" y="1" type="line"/>
-      <point x="848" y="-70" type="line"/>
-      <point x="917" y="-70" type="line"/>
-      <point x="917" y="754" type="line"/>
+    </contour>
+    <contour>
+      <point x="171" y="-76" type="line"/>
+      <point x="242" y="-76" type="line"/>
+      <point x="242" y="837" type="line"/>
+      <point x="171" y="837" type="line"/>
     </contour>
     <contour>
       <point x="100" y="371" type="line"/>
@@ -59,24 +65,20 @@
       <point x="43" y="390" type="curve"/>
     </contour>
     <contour>
-      <point x="171" y="-76" type="line"/>
-      <point x="242" y="-76" type="line"/>
-      <point x="242" y="837" type="line"/>
-      <point x="171" y="837" type="line"/>
-    </contour>
-    <contour>
-      <point x="255" y="660" type="line"/>
-      <point x="276" y="590"/>
-      <point x="290" y="523"/>
       <point x="299" y="460" type="curve"/>
       <point x="354" y="479" type="line"/>
       <point x="347" y="530"/>
       <point x="331" y="595"/>
       <point x="305" y="674" type="curve"/>
+      <point x="255" y="660" type="line"/>
+      <point x="276" y="590"/>
+      <point x="290" y="523"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:57:43 +0000</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

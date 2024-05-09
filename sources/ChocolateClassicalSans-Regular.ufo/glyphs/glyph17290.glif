@@ -4,6 +4,16 @@
   <unicode hex="691A"/>
   <outline>
     <contour>
+      <point x="181" y="-75" type="line"/>
+      <point x="248" y="-75" type="line"/>
+      <point x="248" y="395" type="line"/>
+      <point x="281" y="337"/>
+      <point x="306" y="288"/>
+      <point x="323" y="248" type="curve"/>
+      <point x="361" y="302" type="line"/>
+      <point x="325" y="363"/>
+      <point x="287" y="421"/>
+      <point x="248" y="477" type="curve"/>
       <point x="248" y="553" type="line"/>
       <point x="356" y="553" type="line"/>
       <point x="356" y="621" type="line"/>
@@ -23,22 +33,14 @@
       <point x="110" y="175"/>
       <point x="147" y="265"/>
       <point x="181" y="383" type="curve"/>
-      <point x="181" y="-75" type="line"/>
-      <point x="248" y="-75" type="line"/>
-      <point x="248" y="395" type="line"/>
-      <point x="281" y="337"/>
-      <point x="306" y="288"/>
-      <point x="323" y="248" type="curve"/>
-      <point x="361" y="302" type="line"/>
-      <point x="325" y="363"/>
-      <point x="287" y="421"/>
-      <point x="248" y="477" type="curve"/>
     </contour>
     <contour>
-      <point x="568" y="734" type="line"/>
-      <point x="568" y="636" type="line"/>
-      <point x="450" y="636" type="line"/>
-      <point x="450" y="734" type="line"/>
+      <point x="382" y="-75" type="line"/>
+      <point x="450" y="-75" type="line"/>
+      <point x="450" y="419" type="line"/>
+      <point x="627" y="419" type="line"/>
+      <point x="627" y="793" type="line"/>
+      <point x="382" y="793" type="line"/>
     </contour>
     <contour>
       <point x="450" y="478" type="line"/>
@@ -47,26 +49,13 @@
       <point x="568" y="478" type="line"/>
     </contour>
     <contour>
-      <point x="627" y="793" type="line"/>
-      <point x="382" y="793" type="line"/>
-      <point x="382" y="-75" type="line"/>
-      <point x="450" y="-75" type="line"/>
-      <point x="450" y="419" type="line"/>
-      <point x="627" y="419" type="line"/>
-    </contour>
-    <contour>
-      <point x="735" y="478" type="line"/>
-      <point x="735" y="580" type="line"/>
-      <point x="859" y="580" type="line"/>
-      <point x="859" y="478" type="line"/>
-    </contour>
-    <contour>
-      <point x="859" y="734" type="line"/>
-      <point x="859" y="636" type="line"/>
-      <point x="735" y="636" type="line"/>
-      <point x="735" y="734" type="line"/>
-    </contour>
-    <contour>
+      <point x="749" y="-75" type="curve"/>
+      <point x="824" y="-75"/>
+      <point x="871" y="-71"/>
+      <point x="890" y="-63" type="curve"/>
+      <point x="915" y="-51"/>
+      <point x="927" y="-25"/>
+      <point x="927" y="15" type="curve"/>
       <point x="927" y="793" type="line"/>
       <point x="675" y="793" type="line"/>
       <point x="675" y="419" type="line"/>
@@ -80,17 +69,30 @@
       <point x="725" y="-4" type="curve"/>
       <point x="735" y="-23"/>
       <point x="743" y="-47"/>
-      <point x="749" y="-75" type="curve"/>
-      <point x="824" y="-75"/>
-      <point x="871" y="-71"/>
-      <point x="890" y="-63" type="curve"/>
-      <point x="915" y="-51"/>
-      <point x="927" y="-25"/>
-      <point x="927" y="15" type="curve"/>
+    </contour>
+    <contour>
+      <point x="450" y="636" type="line"/>
+      <point x="450" y="734" type="line"/>
+      <point x="568" y="734" type="line"/>
+      <point x="568" y="636" type="line"/>
+    </contour>
+    <contour>
+      <point x="735" y="478" type="line"/>
+      <point x="735" y="580" type="line"/>
+      <point x="859" y="580" type="line"/>
+      <point x="859" y="478" type="line"/>
+    </contour>
+    <contour>
+      <point x="735" y="636" type="line"/>
+      <point x="735" y="734" type="line"/>
+      <point x="859" y="734" type="line"/>
+      <point x="859" y="636" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:57:44 +0000</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

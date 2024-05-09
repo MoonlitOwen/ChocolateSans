@@ -4,24 +4,10 @@
   <unicode hex="77FD"/>
   <outline>
     <contour>
-      <point x="876" y="592" type="line"/>
-      <point x="854" y="489"/>
-      <point x="820" y="396"/>
-      <point x="774" y="313" type="curve"/>
-      <point x="729" y="364"/>
-      <point x="663" y="416"/>
-      <point x="577" y="469" type="curve"/>
-      <point x="602" y="518"/>
-      <point x="620" y="559"/>
-      <point x="633" y="592" type="curve"/>
-    </contour>
-    <contour>
-      <point x="347" y="117" type="line"/>
-      <point x="189" y="117" type="line"/>
-      <point x="189" y="413" type="line"/>
-      <point x="347" y="413" type="line"/>
-    </contour>
-    <contour>
+      <point x="481" y="-76" type="curve"/>
+      <point x="740" y="53"/>
+      <point x="900" y="295"/>
+      <point x="961" y="651" type="curve"/>
       <point x="913" y="667" type="line"/>
       <point x="900" y="664" type="line"/>
       <point x="660" y="664" type="line"/>
@@ -70,14 +56,30 @@
       <point x="434" y="-17" type="curve"/>
       <point x="447" y="-27"/>
       <point x="462" y="-47"/>
-      <point x="481" y="-76" type="curve"/>
-      <point x="740" y="53"/>
-      <point x="900" y="295"/>
-      <point x="961" y="651" type="curve"/>
+    </contour>
+    <contour>
+      <point x="189" y="117" type="line"/>
+      <point x="189" y="413" type="line"/>
+      <point x="347" y="413" type="line"/>
+      <point x="347" y="117" type="line"/>
+    </contour>
+    <contour>
+      <point x="774" y="313" type="curve"/>
+      <point x="729" y="364"/>
+      <point x="663" y="416"/>
+      <point x="577" y="469" type="curve"/>
+      <point x="602" y="518"/>
+      <point x="620" y="559"/>
+      <point x="633" y="592" type="curve"/>
+      <point x="876" y="592" type="line"/>
+      <point x="854" y="489"/>
+      <point x="820" y="396"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:57:46 +0000</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

@@ -4,28 +4,6 @@
   <unicode hex="FB03"/>
   <outline>
     <contour>
-      <point x="736" y="0" type="line"/>
-      <point x="827" y="0" type="line"/>
-      <point x="827" y="543" type="line"/>
-      <point x="736" y="543" type="line"/>
-    </contour>
-    <contour>
-      <point x="781" y="655" type="curve"/>
-      <point x="817" y="655"/>
-      <point x="843" y="679"/>
-      <point x="843" y="716" type="curve"/>
-      <point x="843" y="751"/>
-      <point x="817" y="775"/>
-      <point x="781" y="775" type="curve"/>
-      <point x="746" y="775"/>
-      <point x="721" y="751"/>
-      <point x="721" y="716" type="curve"/>
-      <point x="721" y="679"/>
-      <point x="746" y="655"/>
-    </contour>
-    <contour>
-      <point x="33" y="469" type="line"/>
-      <point x="107" y="469" type="line"/>
       <point x="107" y="0" type="line"/>
       <point x="198" y="0" type="line"/>
       <point x="198" y="469" type="line"/>
@@ -68,10 +46,34 @@
       <point x="107" y="615" type="curve"/>
       <point x="107" y="543" type="line"/>
       <point x="33" y="538" type="line"/>
+      <point x="33" y="469" type="line"/>
+      <point x="107" y="469" type="line"/>
+    </contour>
+    <contour>
+      <point x="736" y="0" type="line"/>
+      <point x="827" y="0" type="line"/>
+      <point x="827" y="543" type="line"/>
+      <point x="736" y="543" type="line"/>
+    </contour>
+    <contour>
+      <point x="781" y="655" type="curve"/>
+      <point x="817" y="655"/>
+      <point x="843" y="679"/>
+      <point x="843" y="716" type="curve"/>
+      <point x="843" y="751"/>
+      <point x="817" y="775"/>
+      <point x="781" y="775" type="curve"/>
+      <point x="746" y="775"/>
+      <point x="721" y="751"/>
+      <point x="721" y="716" type="curve"/>
+      <point x="721" y="679"/>
+      <point x="746" y="655"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:57:39 +0000</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

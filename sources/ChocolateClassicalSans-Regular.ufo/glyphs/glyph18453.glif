@@ -4,14 +4,14 @@
   <unicode hex="6DB8"/>
   <outline>
     <contour>
-      <point x="250" y="458" type="line"/>
-      <point x="203" y="491"/>
-      <point x="147" y="522"/>
-      <point x="80" y="552" type="curve"/>
-      <point x="40" y="498" type="line"/>
-      <point x="112" y="461"/>
-      <point x="168" y="428"/>
-      <point x="209" y="398" type="curve"/>
+      <point x="319" y="-77" type="line"/>
+      <point x="388" y="-77" type="line"/>
+      <point x="388" y="-21" type="line"/>
+      <point x="846" y="-21" type="line"/>
+      <point x="846" y="-69" type="line"/>
+      <point x="917" y="-69" type="line"/>
+      <point x="917" y="790" type="line"/>
+      <point x="319" y="790" type="line"/>
     </contour>
     <contour>
       <point x="132" y="-60" type="line"/>
@@ -24,22 +24,43 @@
       <point x="69" y="-13" type="curve"/>
     </contour>
     <contour>
-      <point x="88" y="775" type="line"/>
-      <point x="163" y="732"/>
-      <point x="222" y="691"/>
+      <point x="209" y="398" type="curve"/>
+      <point x="250" y="458" type="line"/>
+      <point x="203" y="491"/>
+      <point x="147" y="522"/>
+      <point x="80" y="552" type="curve"/>
+      <point x="40" y="498" type="line"/>
+      <point x="112" y="461"/>
+      <point x="168" y="428"/>
+    </contour>
+    <contour>
+      <point x="520" y="186" type="line"/>
+      <point x="520" y="329" type="line"/>
+      <point x="707" y="329" type="line"/>
+      <point x="707" y="186" type="line"/>
+    </contour>
+    <contour>
       <point x="265" y="653" type="curve"/>
       <point x="310" y="711" type="line"/>
       <point x="270" y="744"/>
       <point x="210" y="783"/>
       <point x="131" y="826" type="curve"/>
+      <point x="88" y="775" type="line"/>
+      <point x="163" y="732"/>
+      <point x="222" y="691"/>
     </contour>
     <contour>
-      <point x="707" y="186" type="line"/>
-      <point x="520" y="186" type="line"/>
-      <point x="520" y="329" type="line"/>
-      <point x="707" y="329" type="line"/>
+      <point x="388" y="46" type="line"/>
+      <point x="388" y="724" type="line"/>
+      <point x="846" y="724" type="line"/>
+      <point x="846" y="46" type="line"/>
     </contour>
     <contour>
+      <point x="460" y="129" type="line"/>
+      <point x="769" y="129" type="line"/>
+      <point x="769" y="386" type="line"/>
+      <point x="647" y="386" type="line"/>
+      <point x="647" y="505" type="line"/>
       <point x="804" y="505" type="line"/>
       <point x="804" y="567" type="line"/>
       <point x="647" y="567" type="line"/>
@@ -51,31 +72,12 @@
       <point x="580" y="505" type="line"/>
       <point x="580" y="386" type="line"/>
       <point x="460" y="386" type="line"/>
-      <point x="460" y="129" type="line"/>
-      <point x="769" y="129" type="line"/>
-      <point x="769" y="386" type="line"/>
-      <point x="647" y="386" type="line"/>
-      <point x="647" y="505" type="line"/>
-    </contour>
-    <contour>
-      <point x="388" y="46" type="line"/>
-      <point x="388" y="724" type="line"/>
-      <point x="846" y="724" type="line"/>
-      <point x="846" y="46" type="line"/>
-    </contour>
-    <contour>
-      <point x="319" y="790" type="line"/>
-      <point x="319" y="-77" type="line"/>
-      <point x="388" y="-77" type="line"/>
-      <point x="388" y="-21" type="line"/>
-      <point x="846" y="-21" type="line"/>
-      <point x="846" y="-69" type="line"/>
-      <point x="917" y="-69" type="line"/>
-      <point x="917" y="790" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:57:44 +0000</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

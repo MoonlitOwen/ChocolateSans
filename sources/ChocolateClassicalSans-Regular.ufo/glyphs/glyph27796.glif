@@ -4,6 +4,16 @@
   <unicode hex="92A5"/>
   <outline>
     <contour>
+      <point x="914" y="-76" type="curve"/>
+      <point x="928" y="-53"/>
+      <point x="945" y="-33"/>
+      <point x="964" y="-18" type="curve"/>
+      <point x="879" y="39"/>
+      <point x="815" y="141"/>
+      <point x="771" y="288" type="curve"/>
+      <point x="829" y="337"/>
+      <point x="888" y="395"/>
+      <point x="949" y="462" type="curve"/>
       <point x="892" y="505" type="line"/>
       <point x="860" y="461"/>
       <point x="814" y="410"/>
@@ -90,16 +100,16 @@
       <point x="660" y="536" type="curve"/>
       <point x="699" y="227"/>
       <point x="784" y="23"/>
-      <point x="914" y="-76" type="curve"/>
-      <point x="928" y="-53"/>
-      <point x="945" y="-33"/>
-      <point x="964" y="-18" type="curve"/>
-      <point x="879" y="39"/>
-      <point x="815" y="141"/>
-      <point x="771" y="288" type="curve"/>
-      <point x="829" y="337"/>
-      <point x="888" y="395"/>
-      <point x="949" y="462" type="curve"/>
+    </contour>
+    <contour>
+      <point x="110" y="101" type="curve"/>
+      <point x="163" y="115" type="line"/>
+      <point x="158" y="172"/>
+      <point x="145" y="234"/>
+      <point x="122" y="303" type="curve"/>
+      <point x="73" y="291" type="line"/>
+      <point x="94" y="218"/>
+      <point x="107" y="154"/>
     </contour>
     <contour>
       <point x="343" y="121" type="line"/>
@@ -111,19 +121,11 @@
       <point x="314" y="192"/>
       <point x="295" y="134" type="curve"/>
     </contour>
-    <contour>
-      <point x="73" y="291" type="line"/>
-      <point x="94" y="218"/>
-      <point x="107" y="154"/>
-      <point x="110" y="101" type="curve"/>
-      <point x="163" y="115" type="line"/>
-      <point x="158" y="172"/>
-      <point x="145" y="234"/>
-      <point x="122" y="303" type="curve"/>
-    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:57:48 +0000</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

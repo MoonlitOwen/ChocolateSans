@@ -31,9 +31,6 @@
       <point x="146" y="13"/>
     </contour>
     <contour>
-      <point x="371" y="457" type="curve"/>
-      <point x="330" y="395"/>
-      <point x="278" y="371"/>
       <point x="243" y="371" type="curve"/>
       <point x="169" y="371"/>
       <point x="125" y="425"/>
@@ -43,6 +40,9 @@
       <point x="235" y="680" type="curve"/>
       <point x="308" y="680"/>
       <point x="361" y="603"/>
+      <point x="371" y="457" type="curve"/>
+      <point x="330" y="395"/>
+      <point x="278" y="371"/>
     </contour>
     <contour>
       <point x="599" y="127" type="line"/>
@@ -51,14 +51,14 @@
       <point x="847" y="127" type="line"/>
     </contour>
     <contour>
-      <point x="920" y="735" type="line"/>
-      <point x="529" y="735" type="line"/>
       <point x="529" y="1" type="line"/>
       <point x="599" y="1" type="line"/>
       <point x="599" y="56" type="line"/>
       <point x="847" y="56" type="line"/>
       <point x="847" y="5" type="line"/>
       <point x="920" y="5" type="line"/>
+      <point x="920" y="735" type="line"/>
+      <point x="529" y="735" type="line"/>
     </contour>
     <contour>
       <point x="599" y="435" type="line"/>
@@ -69,6 +69,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:57:39 +0000</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

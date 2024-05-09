@@ -4,16 +4,9 @@
   <unicode hex="90BA"/>
   <outline>
     <contour>
-      <point x="202" y="241" type="line"/>
-      <point x="185" y="355"/>
-      <point x="157" y="475"/>
-      <point x="117" y="600" type="curve"/>
-      <point x="53" y="590" type="line"/>
-      <point x="90" y="464"/>
-      <point x="116" y="342"/>
-      <point x="132" y="225" type="curve"/>
-    </contour>
-    <contour>
+      <point x="59" y="-37" type="line"/>
+      <point x="619" y="76" type="line"/>
+      <point x="615" y="144" type="line"/>
       <point x="461" y="113" type="line"/>
       <point x="461" y="827" type="line"/>
       <point x="393" y="827" type="line"/>
@@ -25,9 +18,16 @@
       <point x="150" y="53"/>
       <point x="87" y="42"/>
       <point x="43" y="35" type="curve"/>
-      <point x="59" y="-37" type="line"/>
-      <point x="619" y="76" type="line"/>
-      <point x="615" y="144" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="225" type="curve"/>
+      <point x="202" y="241" type="line"/>
+      <point x="185" y="355"/>
+      <point x="157" y="475"/>
+      <point x="117" y="600" type="curve"/>
+      <point x="53" y="590" type="line"/>
+      <point x="90" y="464"/>
+      <point x="116" y="342"/>
     </contour>
     <contour>
       <point x="538" y="241" type="line"/>
@@ -40,9 +40,6 @@
       <point x="480" y="257" type="curve"/>
     </contour>
     <contour>
-      <point x="910" y="787" type="line"/>
-      <point x="899" y="783" type="line"/>
-      <point x="661" y="783" type="line"/>
       <point x="661" y="-77" type="line"/>
       <point x="727" y="-77" type="line"/>
       <point x="727" y="713" type="line"/>
@@ -80,10 +77,15 @@
       <point x="874" y="520"/>
       <point x="912" y="620"/>
       <point x="960" y="755" type="curve"/>
+      <point x="910" y="787" type="line"/>
+      <point x="899" y="783" type="line"/>
+      <point x="661" y="783" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:57:48 +0000</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

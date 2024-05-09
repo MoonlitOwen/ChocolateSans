@@ -4,29 +4,6 @@
   <unicode hex="33B1"/>
   <outline>
     <contour>
-      <point x="66" y="0" type="line"/>
-      <point x="159" y="0" type="line"/>
-      <point x="159" y="397" type="line"/>
-      <point x="198" y="451"/>
-      <point x="232" y="478"/>
-      <point x="274" y="478" type="curve"/>
-      <point x="333" y="478"/>
-      <point x="353" y="438"/>
-      <point x="353" y="350" type="curve"/>
-      <point x="353" y="0" type="line"/>
-      <point x="445" y="0" type="line"/>
-      <point x="445" y="360" type="line"/>
-      <point x="445" y="489"/>
-      <point x="405" y="556"/>
-      <point x="307" y="556" type="curve"/>
-      <point x="243" y="556"/>
-      <point x="194" y="518"/>
-      <point x="152" y="469" type="curve"/>
-      <point x="148" y="469" type="line"/>
-      <point x="141" y="544" type="line"/>
-      <point x="66" y="544" type="line"/>
-    </contour>
-    <contour>
       <point x="749" y="-13" type="curve"/>
       <point x="875" y="-13"/>
       <point x="944" y="60"/>
@@ -66,9 +43,34 @@
       <point x="603" y="19"/>
       <point x="670" y="-13"/>
     </contour>
+    <contour>
+      <point x="66" y="0" type="line"/>
+      <point x="159" y="0" type="line"/>
+      <point x="159" y="397" type="line"/>
+      <point x="198" y="451"/>
+      <point x="232" y="478"/>
+      <point x="274" y="478" type="curve"/>
+      <point x="333" y="478"/>
+      <point x="353" y="438"/>
+      <point x="353" y="350" type="curve"/>
+      <point x="353" y="0" type="line"/>
+      <point x="445" y="0" type="line"/>
+      <point x="445" y="360" type="line"/>
+      <point x="445" y="489"/>
+      <point x="405" y="556"/>
+      <point x="307" y="556" type="curve"/>
+      <point x="243" y="556"/>
+      <point x="194" y="518"/>
+      <point x="152" y="469" type="curve"/>
+      <point x="148" y="469" type="line"/>
+      <point x="141" y="544" type="line"/>
+      <point x="66" y="544" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:57:39 +0000</string>
       <key>public.verticalOrigin</key>
       <integer>772</integer>
     </dict>

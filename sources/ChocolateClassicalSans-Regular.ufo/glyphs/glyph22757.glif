@@ -4,33 +4,6 @@
   <unicode hex="7EB8"/>
   <outline>
     <contour>
-      <point x="517" y="746" type="curve"/>
-      <point x="476" y="760" type="line"/>
-      <point x="476" y="22" type="line"/>
-      <point x="448" y="16"/>
-      <point x="422" y="11"/>
-      <point x="399" y="7" type="curve"/>
-      <point x="427" y="-64" type="line"/>
-      <point x="524" y="-42"/>
-      <point x="630" y="-16"/>
-      <point x="746" y="13" type="curve"/>
-      <point x="738" y="77" type="line"/>
-      <point x="673" y="63"/>
-      <point x="609" y="50"/>
-      <point x="548" y="37" type="curve"/>
-      <point x="548" y="389" type="line"/>
-      <point x="711" y="389" type="line"/>
-      <point x="715" y="327"/>
-      <point x="721" y="270"/>
-      <point x="728" y="217" type="curve"/>
-      <point x="735" y="164"/>
-      <point x="745" y="118"/>
-      <point x="756" y="78" type="curve"/>
-      <point x="767" y="37"/>
-      <point x="781" y="4"/>
-      <point x="798" y="-21" type="curve"/>
-      <point x="814" y="-46"/>
-      <point x="833" y="-63"/>
       <point x="856" y="-70" type="curve"/>
       <point x="887" y="-85"/>
       <point x="913" y="-78"/>
@@ -71,15 +44,45 @@
       <point x="866" y="841" type="line"/>
       <point x="773" y="803"/>
       <point x="656" y="771"/>
+      <point x="517" y="746" type="curve"/>
+      <point x="476" y="760" type="line"/>
+      <point x="476" y="22" type="line"/>
+      <point x="448" y="16"/>
+      <point x="422" y="11"/>
+      <point x="399" y="7" type="curve"/>
+      <point x="427" y="-64" type="line"/>
+      <point x="524" y="-42"/>
+      <point x="630" y="-16"/>
+      <point x="746" y="13" type="curve"/>
+      <point x="738" y="77" type="line"/>
+      <point x="673" y="63"/>
+      <point x="609" y="50"/>
+      <point x="548" y="37" type="curve"/>
+      <point x="548" y="389" type="line"/>
+      <point x="711" y="389" type="line"/>
+      <point x="715" y="327"/>
+      <point x="721" y="270"/>
+      <point x="728" y="217" type="curve"/>
+      <point x="735" y="164"/>
+      <point x="745" y="118"/>
+      <point x="756" y="78" type="curve"/>
+      <point x="767" y="37"/>
+      <point x="781" y="4"/>
+      <point x="798" y="-21" type="curve"/>
+      <point x="814" y="-46"/>
+      <point x="833" y="-63"/>
     </contour>
     <contour>
-      <point x="190" y="406" type="curve"/>
-      <point x="162" y="354"/>
-      <point x="135" y="307"/>
-      <point x="108" y="266" type="curve"/>
-      <point x="78" y="261"/>
-      <point x="50" y="257"/>
-      <point x="25" y="254" type="curve"/>
+      <point x="59" y="-20" type="line"/>
+      <point x="162" y="2"/>
+      <point x="280" y="26"/>
+      <point x="413" y="53" type="curve"/>
+      <point x="407" y="114" type="line"/>
+      <point x="265" y="86"/>
+      <point x="144" y="64"/>
+      <point x="45" y="47" type="curve"/>
+    </contour>
+    <contour>
       <point x="39" y="181" type="line"/>
       <point x="144" y="202"/>
       <point x="264" y="226"/>
@@ -114,16 +117,13 @@
       <point x="44" y="571" type="line"/>
       <point x="102" y="518"/>
       <point x="151" y="463"/>
-    </contour>
-    <contour>
-      <point x="59" y="-20" type="line"/>
-      <point x="162" y="2"/>
-      <point x="280" y="26"/>
-      <point x="413" y="53" type="curve"/>
-      <point x="407" y="114" type="line"/>
-      <point x="265" y="86"/>
-      <point x="144" y="64"/>
-      <point x="45" y="47" type="curve"/>
+      <point x="190" y="406" type="curve"/>
+      <point x="162" y="354"/>
+      <point x="135" y="307"/>
+      <point x="108" y="266" type="curve"/>
+      <point x="78" y="261"/>
+      <point x="50" y="257"/>
+      <point x="25" y="254" type="curve"/>
     </contour>
     <contour>
       <point x="548" y="461" type="line"/>
@@ -138,6 +138,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:57:46 +0000</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

@@ -4,7 +4,6 @@
   <unicode hex="82EB"/>
   <outline>
     <contour>
-      <point x="171" y="307" type="line"/>
       <point x="171" y="-80" type="line"/>
       <point x="242" y="-80" type="line"/>
       <point x="242" y="-37" type="line"/>
@@ -20,6 +19,7 @@
       <point x="526" y="626" type="line"/>
       <point x="451" y="626" type="line"/>
       <point x="451" y="307" type="line"/>
+      <point x="171" y="307" type="line"/>
     </contour>
     <contour>
       <point x="242" y="32" type="line"/>
@@ -28,11 +28,6 @@
       <point x="771" y="32" type="line"/>
     </contour>
     <contour>
-      <point x="246" y="841" type="line"/>
-      <point x="246" y="750" type="line"/>
-      <point x="60" y="750" type="line"/>
-      <point x="60" y="681" type="line"/>
-      <point x="246" y="681" type="line"/>
       <point x="246" y="585" type="line"/>
       <point x="320" y="585" type="line"/>
       <point x="320" y="681" type="line"/>
@@ -40,11 +35,13 @@
       <point x="479" y="750" type="line"/>
       <point x="320" y="750" type="line"/>
       <point x="320" y="841" type="line"/>
+      <point x="246" y="841" type="line"/>
+      <point x="246" y="750" type="line"/>
+      <point x="60" y="750" type="line"/>
+      <point x="60" y="681" type="line"/>
+      <point x="246" y="681" type="line"/>
     </contour>
     <contour>
-      <point x="520" y="750" type="line"/>
-      <point x="520" y="681" type="line"/>
-      <point x="677" y="681" type="line"/>
       <point x="677" y="585" type="line"/>
       <point x="751" y="585" type="line"/>
       <point x="751" y="681" type="line"/>
@@ -54,10 +51,15 @@
       <point x="751" y="840" type="line"/>
       <point x="677" y="840" type="line"/>
       <point x="677" y="750" type="line"/>
+      <point x="520" y="750" type="line"/>
+      <point x="520" y="681" type="line"/>
+      <point x="677" y="681" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:57:47 +0000</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

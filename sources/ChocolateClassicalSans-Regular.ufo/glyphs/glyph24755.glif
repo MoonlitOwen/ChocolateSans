@@ -4,18 +4,35 @@
   <unicode hex="86A1"/>
   <outline>
     <contour>
-      <point x="350" y="356" type="line"/>
-      <point x="270" y="356" type="line"/>
-      <point x="270" y="589" type="line"/>
-      <point x="350" y="589" type="line"/>
-    </contour>
-    <contour>
-      <point x="139" y="589" type="line"/>
-      <point x="216" y="589" type="line"/>
-      <point x="216" y="356" type="line"/>
-      <point x="139" y="356" type="line"/>
-    </contour>
-    <contour>
+      <point x="462" y="-79" type="curve"/>
+      <point x="535" y="-40"/>
+      <point x="588" y="19"/>
+      <point x="619" y="96" type="curve"/>
+      <point x="644" y="158"/>
+      <point x="660" y="247"/>
+      <point x="667" y="364" type="curve"/>
+      <point x="820" y="364" type="line"/>
+      <point x="812" y="143"/>
+      <point x="799" y="23"/>
+      <point x="781" y="2" type="curve"/>
+      <point x="775" y="-7"/>
+      <point x="765" y="-11"/>
+      <point x="750" y="-11" type="curve"/>
+      <point x="713" y="-11"/>
+      <point x="679" y="-10"/>
+      <point x="650" y="-7" type="curve"/>
+      <point x="663" y="-25"/>
+      <point x="670" y="-47"/>
+      <point x="671" y="-74" type="curve"/>
+      <point x="718" y="-76"/>
+      <point x="755" y="-76"/>
+      <point x="780" y="-74" type="curve"/>
+      <point x="807" y="-71"/>
+      <point x="828" y="-61"/>
+      <point x="843" y="-42" type="curve"/>
+      <point x="865" y="-14"/>
+      <point x="881" y="132"/>
+      <point x="892" y="397" type="curve"/>
       <point x="892" y="430" type="line"/>
       <point x="481" y="430" type="line"/>
       <point x="532" y="499"/>
@@ -70,42 +87,20 @@
       <point x="417" y="-25" type="curve"/>
       <point x="436" y="-42"/>
       <point x="451" y="-60"/>
-      <point x="462" y="-79" type="curve"/>
-      <point x="535" y="-40"/>
-      <point x="588" y="19"/>
-      <point x="619" y="96" type="curve"/>
-      <point x="644" y="158"/>
-      <point x="660" y="247"/>
-      <point x="667" y="364" type="curve"/>
-      <point x="820" y="364" type="line"/>
-      <point x="812" y="143"/>
-      <point x="799" y="23"/>
-      <point x="781" y="2" type="curve"/>
-      <point x="775" y="-7"/>
-      <point x="765" y="-11"/>
-      <point x="750" y="-11" type="curve"/>
-      <point x="713" y="-11"/>
-      <point x="679" y="-10"/>
-      <point x="650" y="-7" type="curve"/>
-      <point x="663" y="-25"/>
-      <point x="670" y="-47"/>
-      <point x="671" y="-74" type="curve"/>
-      <point x="718" y="-76"/>
-      <point x="755" y="-76"/>
-      <point x="780" y="-74" type="curve"/>
-      <point x="807" y="-71"/>
-      <point x="828" y="-61"/>
-      <point x="843" y="-42" type="curve"/>
-      <point x="865" y="-14"/>
-      <point x="881" y="132"/>
-      <point x="892" y="397" type="curve"/>
     </contour>
     <contour>
-      <point x="583" y="802" type="line"/>
-      <point x="583" y="735" type="line"/>
-      <point x="763" y="735" type="line"/>
-      <point x="796" y="592"/>
-      <point x="847" y="482"/>
+      <point x="139" y="356" type="line"/>
+      <point x="139" y="589" type="line"/>
+      <point x="216" y="589" type="line"/>
+      <point x="216" y="356" type="line"/>
+    </contour>
+    <contour>
+      <point x="270" y="356" type="line"/>
+      <point x="270" y="589" type="line"/>
+      <point x="350" y="589" type="line"/>
+      <point x="350" y="356" type="line"/>
+    </contour>
+    <contour>
       <point x="916" y="407" type="curve"/>
       <point x="930" y="424"/>
       <point x="949" y="441"/>
@@ -113,10 +108,17 @@
       <point x="897" y="531"/>
       <point x="844" y="646"/>
       <point x="814" y="802" type="curve"/>
+      <point x="583" y="802" type="line"/>
+      <point x="583" y="735" type="line"/>
+      <point x="763" y="735" type="line"/>
+      <point x="796" y="592"/>
+      <point x="847" y="482"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:57:47 +0000</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

@@ -5,18 +5,16 @@
   <unicode hex="826E"/>
   <outline>
     <contour>
-      <point x="262" y="526" type="line"/>
-      <point x="742" y="526" type="line"/>
-      <point x="742" y="395" type="line"/>
-      <point x="262" y="395" type="line"/>
-    </contour>
-    <contour>
-      <point x="742" y="720" type="line"/>
-      <point x="742" y="591" type="line"/>
-      <point x="262" y="591" type="line"/>
-      <point x="262" y="720" type="line"/>
-    </contour>
-    <contour>
+      <point x="898" y="-76" type="curve"/>
+      <point x="913" y="-47"/>
+      <point x="929" y="-26"/>
+      <point x="946" y="-11" type="curve"/>
+      <point x="823" y="14"/>
+      <point x="724" y="63"/>
+      <point x="647" y="136" type="curve"/>
+      <point x="750" y="189"/>
+      <point x="839" y="243"/>
+      <point x="914" y="298" type="curve"/>
       <point x="854" y="347" type="line"/>
       <point x="789" y="293"/>
       <point x="705" y="238"/>
@@ -41,20 +39,24 @@
       <point x="445" y="328" type="line"/>
       <point x="522" y="113"/>
       <point x="673" y="-22"/>
-      <point x="898" y="-76" type="curve"/>
-      <point x="913" y="-47"/>
-      <point x="929" y="-26"/>
-      <point x="946" y="-11" type="curve"/>
-      <point x="823" y="14"/>
-      <point x="724" y="63"/>
-      <point x="647" y="136" type="curve"/>
-      <point x="750" y="189"/>
-      <point x="839" y="243"/>
-      <point x="914" y="298" type="curve"/>
+    </contour>
+    <contour>
+      <point x="262" y="395" type="line"/>
+      <point x="262" y="526" type="line"/>
+      <point x="742" y="526" type="line"/>
+      <point x="742" y="395" type="line"/>
+    </contour>
+    <contour>
+      <point x="262" y="591" type="line"/>
+      <point x="262" y="720" type="line"/>
+      <point x="742" y="720" type="line"/>
+      <point x="742" y="591" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:57:40 +0000</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>

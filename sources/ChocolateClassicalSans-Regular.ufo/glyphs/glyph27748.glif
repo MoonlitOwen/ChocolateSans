@@ -4,18 +4,7 @@
   <unicode hex="9275"/>
   <outline>
     <contour>
-      <point x="515" y="337" type="line"/>
-      <point x="515" y="577" type="line"/>
-      <point x="639" y="577" type="line"/>
-      <point x="639" y="337" type="line"/>
-    </contour>
-    <contour>
-      <point x="843" y="577" type="line"/>
-      <point x="843" y="337" type="line"/>
-      <point x="709" y="337" type="line"/>
-      <point x="709" y="577" type="line"/>
-    </contour>
-    <contour>
+      <point x="895" y="-74" type="curve"/>
       <point x="961" y="-46" type="line"/>
       <point x="940" y="33"/>
       <point x="895" y="124"/>
@@ -85,17 +74,16 @@
       <point x="863" y="16" type="curve"/>
       <point x="877" y="-17"/>
       <point x="888" y="-47"/>
-      <point x="895" y="-74" type="curve"/>
     </contour>
     <contour>
-      <point x="73" y="284" type="line"/>
-      <point x="94" y="217"/>
-      <point x="106" y="154"/>
       <point x="109" y="95" type="curve"/>
       <point x="161" y="109" type="line"/>
       <point x="158" y="165"/>
       <point x="145" y="228"/>
       <point x="122" y="297" type="curve"/>
+      <point x="73" y="284" type="line"/>
+      <point x="94" y="217"/>
+      <point x="106" y="154"/>
     </contour>
     <contour>
       <point x="342" y="113" type="line"/>
@@ -107,9 +95,23 @@
       <point x="313" y="190"/>
       <point x="295" y="126" type="curve"/>
     </contour>
+    <contour>
+      <point x="515" y="337" type="line"/>
+      <point x="515" y="577" type="line"/>
+      <point x="639" y="577" type="line"/>
+      <point x="639" y="337" type="line"/>
+    </contour>
+    <contour>
+      <point x="709" y="337" type="line"/>
+      <point x="709" y="577" type="line"/>
+      <point x="843" y="577" type="line"/>
+      <point x="843" y="337" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-05-06 13:57:48 +0000</string>
       <key>public.verticalOrigin</key>
       <integer>880</integer>
     </dict>
