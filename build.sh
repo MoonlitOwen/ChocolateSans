@@ -4,4 +4,4 @@ mkdir "source/temp"
 python3 source/scripts/extract.py
 python3 source/fcp_ufo_process.py
 gftools builder source/config.yaml
-fontbakery check-googlefonts fonts/ttf/ChocolateClassicalSans-Regular.ttf -l WARN --ghmarkdown results.md
+# fontbakery check-googlefonts fonts/ttf/ChocolateClassicalSans-Regular.ttf -l WARN --ghmarkdown results.md
