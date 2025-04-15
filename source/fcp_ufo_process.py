@@ -93,6 +93,42 @@ for UFO in SOURCE.glob("*.ufo"):
     font.info.openTypeNameRecords = name_records
 
 # ------------------------------------
+# Correct the unicodeVariationSequences and add meta table
+    print ("Overriding unicodeVariationSequences and adding meta table")
+    variationSequences = {
+        "FE00": {
+        "3001": "cid1397",
+        "3002": "cid1398",
+        "5140": "cid10832",
+        "55C0": "cid12623",
+        "FF01": "cid63147",
+        "FF0C": "comma.fwid",
+        "FF0E": "period.fwid",
+        "FF1A": "cid63150",
+        "FF1B": "cid63151",
+        "FF1F": "cid63152"
+        },
+        "FE01": {
+        "3001": "ideographiccomma",
+        "3002": "ideographicfullstop",
+        "FF01": "fullwidthexclamationmark",
+        "FF0C": "fullwidthcomma",
+        "FF0E": "fullwidthfullstop",
+        "FF1A": "fullwidthcolon",
+        "FF1B": "fullwidthsemicolon",
+        "FF1F": "fullwidthquestionmark"
+        }
+    }
+
+    font.lib["public.unicodeVariationSequences"] = variationSequences
+
+    metaTable = {
+        "dlng": ["zh, Hant, zh-Hant, nan, hak, yue, nan-Latn, nan-Latn-pehoeji, nan-Latn-tailo, Bopo, Hanb"],
+        "slng": ["zh, Hans, Hant, zh-Hans, zh-Hant, nan, hak, yue, Bopo, Hanb, zh-Latn, zh-Latn-pinyin, nan-Latn, nan-Latn-pehoeji, nan-Latn-tailo, Latn, Cyrl, Grek"]
+    }
+
+    font.lib["public.openTypeMeta"] = metaTable
+# ------------------------------------
 
     # Add the BASE table
 
