@@ -97,26 +97,32 @@ for UFO in SOURCE.glob("*.ufo"):
     print ("Overriding unicodeVariationSequences and adding meta table")
     variationSequences = {
         "FE00": {
-        "3001": "cid1397",
-        "3002": "cid1398",
-        "5140": "cid10832",
-        "55C0": "cid12623",
-        "FF01": "cid63147",
-        "FF0C": "comma.fwid",
-        "FF0E": "period.fwid",
-        "FF1A": "cid63150",
-        "FF1B": "cid63151",
-        "FF1F": "cid63152"
+        "2018": "quoteleft",
+        "2019": "quoteright",
+        "201C": "quotedblleft",
+        "201D": "quotedblright",
+        "3001": "uni3001.crnr",
+        "3002": "uni3002.crnr",
+        "FF01": "uniFF01.crnr",
+        "FF0C": "uniFF0C.crnr",
+        "FF0E": "uniFF0E.crnr",
+        "FF1A": "uniFF1A.crnr",
+        "FF1B": "uniFF1B.crnr",
+        "FF1F": "uniFF1F.crnr"
         },
         "FE01": {
-        "3001": "ideographiccomma",
-        "3002": "ideographicfullstop",
-        "FF01": "fullwidthexclamationmark",
-        "FF0C": "fullwidthcomma",
-        "FF0E": "fullwidthfullstop",
-        "FF1A": "fullwidthcolon",
-        "FF1B": "fullwidthsemicolon",
-        "FF1F": "fullwidthquestionmark"
+        "2018": "quoteleft.fwid",
+        "2019": "quoteright.fwid",
+        "201C": "quotedblleft.fwid",
+        "201D": "quotedblright.fwid",
+        "3001": "uni3001",
+        "3002": "uni3002",
+        "FF01": "uniFF01",
+        "FF0C": "uniFF0C",
+        "FF0E": "uniFF0E",
+        "FF1A": "uniFF1A",
+        "FF1B": "uniFF1B",
+        "FF1F": "uniFF1F"
         }
     }
 
