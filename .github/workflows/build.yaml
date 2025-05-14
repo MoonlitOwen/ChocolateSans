@@ -87,5 +87,5 @@ jobs:
       - name: 上傳字體到 release
         run: |
           gh release upload ${{ github.ref_name }} ${{ env.RELEASE_ZIP_NAME }}.zip --clobber
-          gh release upload ${{ github.ref_name }} fonts/otf/UoqMunThenKhung-Regular.otf --clobber
-          gh release upload ${{ github.ref_name }} fonts/ttf/UoqMunThenKhung-Regular.ttf --clobber
+          gh release upload ${{ github.ref_name }} fonts/otf/ChocolateClassicalSans-Regular.otf --clobber
+          gh release upload ${{ github.ref_name }} fonts/ttf/ChocolateClassicalSans-Regular.ttf --clobber
