@@ -39,6 +39,10 @@ jobs:
       run: chmod +x ./build.sh
     - name: 運行構建字型的腳本
       run: ./build.sh
+    - name: Checkout actual branch
+      run: |
+        git fetch origin main
+        git checkout main
     - name: 儲存 構建後的字型 在個庫裏面
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
