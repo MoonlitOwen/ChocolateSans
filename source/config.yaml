@@ -1,8 +1,9 @@
 sources:
   - temp/ChocolateClassicalSans-Regular.ufo
 familyName: "Chocolate Classical Sans"
-removeOutlineOverlaps: false
-extraFontmakeArgs: "--production-names"
+# some glyphs from new source has overlaps
+removeOutlineOverlaps: True
+extraFontmakeArgs: "--production-names --overlaps-backend pathops"
 autohintOTF: False
 autohintTTF: False
 buildWebfont: False
