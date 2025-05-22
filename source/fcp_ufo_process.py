@@ -83,7 +83,8 @@ with open(SOURCE / ".." / "config.yaml") as f:
     font = ufoLib2.Font.open(UFO)
 
     # Setting useTypoMetrics flag
-    font.info.openTypeOS2Selection.append(7)
+    if 7 in font.info.openTypeOS2Selection:
+        font.info.openTypeOS2Selection.remove(7)
 
     # Setting version number override
     print(f"Overriding version to {VERSION[0]}.{VERSION[1]:03d}")
@@ -157,21 +158,21 @@ with open(SOURCE / ".." / "config.yaml") as f:
 
     base_table_content = """
 table BASE {
-HorizAxis.BaseTagList   icfb    icft    ideo    romn;
-HorizAxis.BaseScriptList  
-    DFLT    ideo  	-77   793  -142     0,
-    hani    ideo   	-77   793  -142     0,
-    kana    ideo   	-77   793  -142     0,
-    hang    ideo   	-77   793  -142     0,
-    latn    romn   	-77   793  -142     0;
+  HorizAxis.BaseTagList                 icfb  icft  ideo  romn;
+  HorizAxis.BaseScriptList  DFLT  ideo    -74  834    -120  0,
+                            hani  ideo    -74  834    -120  0,
+                            kana  ideo    -74  834    -120  0,
+                            latn  romn    -74  834    -120  0,
+                            cyrl  romn    -74  834    -120  0,
+                            grek  romn    -74  834    -120  0;
 
-VertAxis.BaseTagList    icfb    icft    ideo    romn;
-VertAxis.BaseScriptList
-    DFLT    ideo    65   935     0   142,
-    hani    ideo    65   935     0   142,
-    kana    ideo    65   935     0   142,
-    hang    ideo    65   935     0   142,
-    latn    romn    65   935     0   142;
+  VertAxis.BaseTagList                  icfb  icft  ideo  romn;
+  VertAxis.BaseScriptList   DFLT  ideo  46    954   0     120,
+                            hani  ideo  46    954   0     120,
+                            kana  ideo  46    954   0     120,
+                            latn  romn  46    954   0     120,
+                            cyrl  romn  46    954   0     120,
+                            grek  romn  46    954   0     120;
 } BASE;
 """
 
