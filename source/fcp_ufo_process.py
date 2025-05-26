@@ -147,8 +147,8 @@ with open(SOURCE / ".." / "config.yaml") as f:
     font.lib["public.unicodeVariationSequences"] = variationSequences
 
     metaTable = {
-        "dlng": ["zh, Hant, zh-Hant, nan, hak, yue, nan-Latn, nan-Latn-pehoeji, nan-Latn-tailo, Bopo, Hanb"],
-        "slng": ["zh, Hans, Hant, zh-Hans, zh-Hant, nan, hak, yue, Bopo, Hanb, zh-Latn, zh-Latn-pinyin, nan-Latn, nan-Latn-pehoeji, nan-Latn-tailo, Latn, Cyrl, Grek"]
+        "dlng": ["zh", "Hant", "zh-Hant", "nan", "hak", "yue", "nan-Latn", "nan-Latn-pehoeji", "nan-Latn-tailo", "Bopo", "Hanb"],
+        "slng": ["zh", "Hans", "Hant", "zh-Hans", "zh-Hant", "nan", "hak", "yue", "Bopo", "Hanb", "zh-Latn", "zh-Latn-pinyin", "nan-Latn", "nan-Latn-pehoeji", "nan-Latn-tailo", "Latn", "Cyrl", "Grek"]
     }
 
     font.lib["public.openTypeMeta"] = metaTable
