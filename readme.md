@@ -10,7 +10,7 @@
 
 目前最新版本爲1.001版，發佈於2024年5月3日。
 
-🌕 [朱古力黑體 Chocolate Classical Sans 下載 （ttf檔案）](fonts/ttf/ChocolateClassicalSans-Regular.ttf) 🌕　🌕 [朱古力黑體 Chocolate Classical Sans 下載 （otf檔案）](fonts/ttf/ChocolateClassicalSans-Regular.otf) 🌕
+🌕 [朱古力黑體 Chocolate Classical Sans 下載 （ttf檔案）](fonts/ttf/ChocolateClassicalSans-Regular.ttf) 🌕<br>🌕 [朱古力黑體 Chocolate Classical Sans 下載 （otf檔案）](fonts/otf/ChocolateClassicalSans-Regular.otf) 🌕
 
 下載方法：點進連結後，按「View raw」欄右上方的「Download raw file」按鈕（如下圖紅圈所示）。
 ![下載鍵的位置](img/dl.png)
@@ -43,3 +43,4 @@
 * [Yuu黑體（Yuu-Gothic）舊字形版](https://github.com/Steve-Yuu/Yuu-Gothic)
 
 * [尚古黑體（Shanggu Sans）](https://github.com/GuiWonder/Shanggu)
+
